@@ -1,4 +1,4 @@
-# Global Numeral Systems Explorer - Walkthrough
+# Global Numeral Systems Explorer
 
 ## Overview
 
@@ -21,7 +21,10 @@ The application features a stunning, modern design with:
 
 ### Visual Proof
 
-![Library view showing numeral system cards with glassmorphism effects](C:/Users/Lenovo/.gemini/antigravity/brain/e567e43f-bda0-44f1-a4d3-0ad276168aff/library_view_1764499799099.png)
+![Library view showing numeral system cards with glassmorphism effects](<img width="1919" height="906" alt="Image" src="https://github.com/user-attachments/assets/bc0b122e-057f-43cd-bc87-51ec84a14193" />
+<img width="1919" height="906" alt="Image" src="https://github.com/user-attachments/assets/d2ac2322-5ef6-4d71-98c3-1dd6cc222725" />
+<img width="1914" height="907" alt="Image" src="https://github.com/user-attachments/assets/596f7de6-599c-451f-b9c1-6d2af952689d" />
+<img width="1919" height="907" alt="Image" src="https://github.com/user-attachments/assets/a234175b-6c65-4149-bdfc-1e244e93ed96" />)
 
 ---
 
@@ -158,7 +161,6 @@ Created **15 Olympiad-style puzzles** across three difficulty levels:
 
 ✅ **Interactive Problem View**: 
 
-![Practice problem showing Roman Numeral Basics with answer input](C:/Users/Lenovo/.gemini/antigravity/brain/e567e43f-bda0-44f1-a4d3-0ad276168aff/practice_problem_view_1764499797158.png)
 
 ✅ **Problem Features**:
 - Clear problem statement with examples
@@ -313,3 +315,4 @@ Successfully delivered a **fully functional, beautifully designed, educationally
 ✅ Works flawlessly across all tested scenarios  
 
 The application is **ready for immediate use** and provides an engaging, educational experience that bridges mathematics and linguistics through cultural exploration.
+
